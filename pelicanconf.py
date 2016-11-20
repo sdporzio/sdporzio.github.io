@@ -9,7 +9,7 @@ SITEURL = ''
 PATH = 'content'
 
 TIMEZONE = 'Europe/London'
-THEME = 'Flex'
+THEME = 'newtheme'
 
 DEFAULT_LANG = u'en'
 
